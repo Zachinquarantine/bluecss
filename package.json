@@ -1,0 +1,22 @@
+{
+  "name": "bluecss",
+  "version": "1.0.0",
+  "description": "A CSS library that turns the primary colour of your website blue.",
+  "main": "code.css",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zachinquarantine/mihal.git"
+  },
+  "keywords": [],
+  "author": "Zachinquarantine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zachinquarantine/mihal/issues"
+  },
+  "homepage": "https://github.com/Zachinquarantine/mihal#readme"
+}
