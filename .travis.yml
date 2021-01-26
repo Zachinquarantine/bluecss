@@ -1,1 +1,7 @@
-language: css
+{
+  "language": "css",
+  "os": [
+    "linux"
+  ],
+  "dist": "xenial"
+}
